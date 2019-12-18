@@ -11,7 +11,7 @@
   <modules>
     <module>code/routines</module>
     <module>jobs/process/scratch_0.1</module>
-    <module>jobs/process/BJC_DATA_WAREHOUSE/scratch_dw_0.1</module>
+    <module>jobs/process/AZURE_DW_TEST/scratch_dw_0.1</module>
   </modules>
   <properties>
     <signer.version>7.2.1</signer.version>
