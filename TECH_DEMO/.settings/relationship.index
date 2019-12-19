@@ -202,9 +202,5 @@
     "id" : "TalendStringUtil",
     "version" : "Latest",
     "type" : "routine"
-  }, {
-    "id" : "_7fJ8ICHPEeqFEMiKgcoAHQ - Patients",
-    "version" : "Latest",
-    "type" : "schema"
   } ]
 } ]
