@@ -1,8 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
-  <TalendProperties:Project xmi:id="_YOD2YelCEemTUPlX6YXqHg" label="Tech-Demo" description="A place for Rob to do demo and test jobs." language="java" technicalLabel="TECH_DEMO" author="_YOD2YulCEemTUPlX6YXqHg" productVersion="Talend Cloud Real-Time Big Data Platform-7.2.1.20190909_1200_patch" url="{&quot;location&quot;:&quot;https://github.com/apostate9/talend-demo&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DQ" itemsRelationVersion="1.3" bigData="false">
+  <TalendProperties:Project xmi:id="_YOD2YelCEemTUPlX6YXqHg" label="Tech-Demo" description="A place for Rob to do demo and test jobs." language="java" technicalLabel="TECH_DEMO" author="_YOD2YulCEemTUPlX6YXqHg" productVersion="Talend Cloud Real-Time Big Data Platform-7.3.1.20200219_1130" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/apostate9/talend-demo&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DQ" itemsRelationVersion="1.3" bigData="false">
     <migrationTask xmi:id="_YR7pwOlCEemTUPlX6YXqHg" id="org.talend.repository.model.migration.CheckProductVersionMigrationTask" breaks="7.1.0" version="7.1.1"/>
   </TalendProperties:Project>
   <TalendProperties:User xmi:id="_YOD2YulCEemTUPlX6YXqHg" login="josephsarno@nfr.perficient.com" firstName="joseph" lastName="sarno" type="DQ"/>
   <TalendProperties:User xmi:id="_ZcxsQOlCEemTUPlX6YXqHg" login="robert.holman@nfr.perficient.com" firstName="Robert" lastName="Holman" type="DQ"/>
+  <TalendProperties:User xmi:id="_1S-3oP6jEeq_3q3Kfrk3Bg" login="ian.linsell@nfr.perficient.com" firstName="Ian" lastName="Linsell" type="DQ"/>
+  <TalendProperties:User xmi:id="_1S-3of6jEeq_3q3Kfrk3Bg" login="bill.busch@nfr.perficient.com" firstName="Bill" lastName="Busch" type="DQ"/>
+  <TalendProperties:User xmi:id="_1S-3ov6jEeq_3q3Kfrk3Bg" login="evan.cutler@nfr.perficient.com" firstName="Evan" lastName="Cutler" type="DQ"/>
+  <TalendProperties:User xmi:id="_1S-3o_6jEeq_3q3Kfrk3Bg" login="arvind.murali@nfr.perficient.com" firstName="Arvind" lastName="Murali" type="DQ"/>
+  <TalendProperties:User xmi:id="_1S-3pP6jEeq_3q3Kfrk3Bg" login="akila.gurubaskaran@nfr.perficient.com" firstName="Akila" lastName="Gurubaskaran" type="DQ"/>
+  <TalendProperties:User xmi:id="_1S-3pf6jEeq_3q3Kfrk3Bg" login="ben.hahn@nfr.perficient.com" firstName="Ben" lastName="Hahn" type="DQ"/>
+  <TalendProperties:User xmi:id="_1S-3pv6jEeq_3q3Kfrk3Bg" login="lindsay.weir@nfr.perficient.com" firstName="Lindsay" lastName="Weir" type="DQ"/>
+  <TalendProperties:User xmi:id="_1S-3p_6jEeq_3q3Kfrk3Bg" login="kaushikkumar.sen@nfr.perficient.com" firstName="Kaushik Kumar" lastName="Sen" type="DQ"/>
+  <TalendProperties:User xmi:id="_1S-3qP6jEeq_3q3Kfrk3Bg" login="vikas.govindraj@nfr.perficient.com" firstName="Vikas" lastName="Govindraj" type="DQ"/>
+  <TalendProperties:User xmi:id="_1S-3qf6jEeq_3q3Kfrk3Bg" login="ashok.nagandla@nfr.perficient.com" firstName="Ashok" lastName="Nagandla" type="DQ"/>
+  <TalendProperties:User xmi:id="_1S-3qv6jEeq_3q3Kfrk3Bg" login="branesh.rajendran@nfr.perficient.com" firstName="Branesh" lastName="Rajendran" type="DQ"/>
+  <TalendProperties:User xmi:id="_1S-3q_6jEeq_3q3Kfrk3Bg" login="sreeranjani.palani@nfr.perficient.com" firstName="Sreeranjani" lastName="Palani" type="DQ"/>
+  <TalendProperties:User xmi:id="_1S-3rP6jEeq_3q3Kfrk3Bg" login="vivekk.janakiraman@nfr.perficient.com" firstName="Vivekk" lastName="Janakiraman" type="DQ"/>
+  <TalendProperties:User xmi:id="_1S-3rf6jEeq_3q3Kfrk3Bg" login="jon.conley@nfr.perficient.com" firstName="Jon" lastName="Conley" type="DQ"/>
+  <TalendProperties:User xmi:id="_1S-3rv6jEeq_3q3Kfrk3Bg" login="thierno.bah@nfr.perficient.com" firstName="Thierno" lastName="Bah" type="DQ"/>
+  <TalendProperties:User xmi:id="_1S-3r_6jEeq_3q3Kfrk3Bg" login="albert.yalung@nfr.perficient.com" firstName="Albert" lastName="Yalung" type="DQ"/>
+  <TalendProperties:User xmi:id="_1S-3sP6jEeq_3q3Kfrk3Bg" login="divya.masilamani@nfr.perficient.com" firstName="Divya" lastName="Masilamani" type="DQ"/>
+  <TalendProperties:User xmi:id="_1S-3sf6jEeq_3q3Kfrk3Bg" login="monica.sproul@nfr.perficient.com" firstName="Monica" lastName="Sproul" type="DQ"/>
 </xmi:XMI>
