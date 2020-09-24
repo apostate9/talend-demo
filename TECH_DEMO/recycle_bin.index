@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<recyclebin:RecycleBin xmlns:recyclebin="http://www.talend.org/recyclebin" lastUpdate="2019-12-19T11:56:18.166-0700">
+<recyclebin:RecycleBin xmlns:recyclebin="http://www.talend.org/recyclebin" lastUpdate="2020-09-24T14:35:44.462-0600">
   <deletedFolders>process/LOYALTY</deletedFolders>
+  <deletedFolders>process/BJC_DATA_WAREHOUSE/DIM_STAGING</deletedFolders>
+  <deletedFolders>process/BJC_DATA_WAREHOUSE/INTEGRATION</deletedFolders>
+  <deletedFolders>process/BJC_DATA_WAREHOUSE</deletedFolders>
   <deletedItems id="_RvQYIAJ2EeqEHqhiFHmUaA" path="" type="PROCESS"/>
   <deletedItems id="_7fJ8ICHPEeqFEMiKgcoAHQ" path="" type="METADATA_CONNECTIONS"/>
 </recyclebin:RecycleBin>
