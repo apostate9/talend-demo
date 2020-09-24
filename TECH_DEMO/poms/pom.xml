@@ -13,6 +13,7 @@
     <module>jobs/process/scratch_0.1</module>
     <module>jobs/process/AZURE_DW_TEST/scratch_dw_0.1</module>
     <module>jobs/process/AZURE_DW_TEST/test_load_patients_0.1</module>
+    <module>code/beans</module>
   </modules>
   <properties>
     <signer.version>7.3.1</signer.version>
