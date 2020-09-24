@@ -14,7 +14,7 @@
     <module>jobs/process/AZURE_DW_TEST/scratch_dw_0.1</module>
     <module>jobs/process/AZURE_DW_TEST/test_load_patients_0.1</module>
     <module>code/beans</module>
-    <module>jobs/process/FTP_INTAKE/PROCESSOR/FTP_FETCHER/ftp_fetcher_2.2</module>
+    <module>jobs/process/REUSABLE_BITS/PROCESSOR/FTP_FETCHER/ftp_fetcher_2.2</module>
   </modules>
   <properties>
     <signer.version>7.3.1</signer.version>
