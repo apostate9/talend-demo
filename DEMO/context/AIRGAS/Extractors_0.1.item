@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd">
+  <talendfile:ContextType xmi:id="_dqv3IKgxEe-HxoarrVyZdA" confirmationNeeded="false" hide="false" name="Default">
+    <contextParameter xmi:id="_dqv3IagxEe-HxoarrVyZdA" comment="" name="targetFilename" prompt="targetFilename?" promptNeeded="false" repositoryContextId="built-in" type="id_File" value=""/>
+    <contextParameter xmi:id="_8j-OEKgxEe-HxoarrVyZdA" comment="" name="targetDirName" prompt="targetDirName?" promptNeeded="false" repositoryContextId="built-in" type="id_Directory" value=""/>
+    <contextParameter xmi:id="_eELOUKgyEe-HxoarrVyZdA" comment="" name="sourceSAPTable" prompt="sourceSAPTable?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+  </talendfile:ContextType>
+  <talendfile:ContextType xmi:id="_dqv3IqgxEe-HxoarrVyZdA" confirmationNeeded="false" hide="false" name="DEV_ROB">
+    <contextParameter xmi:id="_dqv3I6gxEe-HxoarrVyZdA" comment="" name="targetFilename" prompt="targetFilename?" promptNeeded="false" repositoryContextId="built-in" type="id_File" value=""/>
+    <contextParameter xmi:id="_8j-OEagxEe-HxoarrVyZdA" comment="" name="targetDirName" prompt="targetDirName?" promptNeeded="false" repositoryContextId="built-in" type="id_Directory" value="C:/Users/rober/OneDrive/Documents/work/client/airgas/"/>
+    <contextParameter xmi:id="_eELOUagyEe-HxoarrVyZdA" comment="" name="sourceSAPTable" prompt="sourceSAPTable?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+  </talendfile:ContextType>
+  <talendfile:ContextType xmi:id="_dqv3JKgxEe-HxoarrVyZdA" confirmationNeeded="false" hide="false" name="TEST">
+    <contextParameter xmi:id="_dqv3JagxEe-HxoarrVyZdA" comment="" name="targetFilename" prompt="targetFilename?" promptNeeded="false" repositoryContextId="built-in" type="id_File" value=""/>
+    <contextParameter xmi:id="_8j-OEqgxEe-HxoarrVyZdA" comment="" name="targetDirName" prompt="targetDirName?" promptNeeded="false" repositoryContextId="built-in" type="id_Directory" value=""/>
+    <contextParameter xmi:id="_eELOUqgyEe-HxoarrVyZdA" comment="" name="sourceSAPTable" prompt="sourceSAPTable?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+  </talendfile:ContextType>
+</xmi:XMI>

@@ -1,0 +1,34 @@
+{
+  "itemId" : "_VsGwIKgyEe-HxoarrVyZdA",
+  "contextList" : [ {
+    "contextName" : "Default",
+    "repoId" : "_dqf_gKgxEe-HxoarrVyZdA",
+    "parameterList" : [ {
+      "id" : "_dqv3IagxEe-HxoarrVyZdA",
+      "name" : "targetFilename"
+    }, {
+      "id" : "_8j-OEKgxEe-HxoarrVyZdA",
+      "name" : "targetDirName"
+    } ]
+  }, {
+    "contextName" : "DEV_ROB",
+    "repoId" : "_dqf_gKgxEe-HxoarrVyZdA",
+    "parameterList" : [ {
+      "id" : "_dqv3I6gxEe-HxoarrVyZdA",
+      "name" : "targetFilename"
+    }, {
+      "id" : "_8j-OEagxEe-HxoarrVyZdA",
+      "name" : "targetDirName"
+    } ]
+  }, {
+    "contextName" : "TEST",
+    "repoId" : "_dqf_gKgxEe-HxoarrVyZdA",
+    "parameterList" : [ {
+      "id" : "_dqv3JagxEe-HxoarrVyZdA",
+      "name" : "targetFilename"
+    }, {
+      "id" : "_8j-OEqgxEe-HxoarrVyZdA",
+      "name" : "targetDirName"
+    } ]
+  } ]
+}

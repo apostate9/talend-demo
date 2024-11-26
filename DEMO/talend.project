@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Project xmi:id="_eFE9UageEe-AxpxjgNHe-g" label="Demo" description="Demo stuff and Collateral." language="java" technicalLabel="DEMO" author="_eFE9UqgeEe-AxpxjgNHe-g" productVersion="Qlik Talend Cloud Enterprise Edition-8.0.1.20241016_1624-patch" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/apostate9/talend-demo.git&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DQ" itemsRelationVersion="1.3" bigData="false">
+    <migrationTask xmi:id="_eGD0wKgeEe-AxpxjgNHe-g" id="org.talend.repository.model.migration.CheckProductVersionMigrationTask" breaks="7.1.0" version="7.1.1"/>
+  </TalendProperties:Project>
+  <TalendProperties:User xmi:id="_eFE9UqgeEe-AxpxjgNHe-g" login="robert.holman@disquaredllc" firstName="Robert" lastName="Holman" type="DQ"/>
+  <TalendProperties:User xmi:id="_BtF-oKgfEe-IjrieraJNBA" login="treysmith@disquaredllc" firstName="Trey" lastName="Smith" type="DQ"/>
+  <TalendProperties:User xmi:id="_BtF-oagfEe-IjrieraJNBA" login="rakesh.mehta@disquaredllc" firstName="rakesh" lastName="Mehta" type="DQ"/>
+</xmi:XMI>
